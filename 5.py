@@ -1,6 +1,5 @@
-n=int(input())
+n=(input())
 list = []
 for i in range(n):
-    list.append
-
-    "tut7ui"
+    list.append(input())
+print (list)
