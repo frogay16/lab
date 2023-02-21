@@ -1,9 +1,9 @@
 a=int(input())
 if a % 2 == 0:
-    print("Верхнее место7")
+    print("Верхнее место")
 else:
-    print("Нижнее место0")
+    print("Нижнее место")
 if a<37:
-    print("Купе9")
+    print("Купе")
 else:
-    print("Боковое5")
+    print("Боковое")
