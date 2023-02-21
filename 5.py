@@ -1,5 +1,5 @@
-n=(input())
-list = []
+n=int(input())
+a = []
 for i in range(n):
-    list.append(input())
-print (list)
+    a.append(input())
+print(*a)
